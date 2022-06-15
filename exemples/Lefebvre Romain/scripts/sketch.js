@@ -44,7 +44,7 @@ function setup() {
    
 	
 
-	sequencer = new Sequencer(audioPath, 103);  //cherches le bpm de ton son et tu le mets à la place du 130
+	sequencer = new Sequencer(audioPath, 126 false);  //cherches le bpm de ton son et tu le mets à la place du 130
 	
    // sequencer.registerSequence({
 	//	name : "introduction",
